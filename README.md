@@ -2,7 +2,8 @@
 
 * Monitorea la informacion publicada por la prensa blanca
 * Ofrece videos de partidos completos de CAP
-* Conferencias de prensa, entrevistas a dirigentes y jugadores
+* Conferencias de prensa
+* PyD Radio
 
 ## 1891CAP® PRESS
 
