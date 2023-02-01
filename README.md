@@ -1,5 +1,8 @@
 # El Inspector
-Información de Peñarol 24/7 
+
+* Monitorea la informacion publicada por la prensa blanca
+* Ofrece videos de partidos completos de CAP
+* Conferencias de prensa, entrevistas a dirigentes y jugadores
 
 ## 1891CAP® PRESS
 
