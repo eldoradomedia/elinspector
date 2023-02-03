@@ -4,6 +4,7 @@
 * Ofrece videos de partidos completos de CAP
 * Conferencias de prensa
 * PyD Radio
+* www.elinspector.tk
 
 ## 1891CAP® PRESS
 
